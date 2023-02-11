@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gavin-mcdonnell
-- 👀 I’m interested in Homelab, Docker
+- 👋 Hi, I’m Gavin
+- 👀 I’m interested in Docker, Home Lab
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://contact.mcdon.xyz
+- 📫 How to reach me:
 
 <!---
 gavin-mcdonnell/gavin-mcdonnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
